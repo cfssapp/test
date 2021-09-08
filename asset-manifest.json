@@ -1,6 +1,6 @@
 {
   "/umi.css": "/umi.dd73b655.css",
-  "/umi.js": "/umi.f206e23c.js",
+  "/umi.js": "/umi.60c3979d.js",
   "/t__plugin-layout__Layout.css": "/t__plugin-layout__Layout.b14ec8ee.chunk.css",
   "/t__plugin-layout__Layout.js": "/t__plugin-layout__Layout.970b9bf2.async.js",
   "/p__user__Login.css": "/p__user__Login.81a47687.chunk.css",
@@ -8,7 +8,7 @@
   "/p__404.css": "/p__404.9466e732.chunk.css",
   "/p__404.js": "/p__404.789b3468.async.js",
   "/p__dashboard__workplace.css": "/p__dashboard__workplace.e9a6a7f3.chunk.css",
-  "/p__dashboard__workplace.js": "/p__dashboard__workplace.11fbe8fc.async.js",
+  "/p__dashboard__workplace.js": "/p__dashboard__workplace.c6f1f2a5.async.js",
   "/p__apps__comment__topic.css": "/p__apps__comment__topic.d2d53dd7.chunk.css",
   "/p__apps__comment__topic.js": "/p__apps__comment__topic.5e670714.async.js",
   "/p__apps__comment__post.css": "/p__apps__comment__post.e25ec82b.chunk.css",
@@ -51,9 +51,9 @@
   "/611.2ac29ba0.async.js": "/611.2ac29ba0.async.js",
   "/logo.svg": "/logo.svg",
   "/icons/icon-512x512.png": "/icons/icon-512x512.png",
-  "/favicon.ico": "/favicon.ico",
   "/icons/icon-192x192.png": "/icons/icon-192x192.png",
   "/icons/icon-128x128.png": "/icons/icon-128x128.png",
   "/pro_icon.svg": "/pro_icon.svg",
+  "/favicon.ico": "/favicon.ico",
   "/CNAME": "/CNAME"
 }
